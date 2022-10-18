@@ -1,0 +1,511 @@
+# Created by Octave 7.2.0, Sun Oct 16 01:25:43 2022 MSK <kmnjkl@maksim-hplaptop14cm1xxx-garuda>
+# name: L
+# type: matrix
+# rows: 3
+# columns: 1
+ 1.23
+ 1.2310000000000001
+ 1.2290000000000001
+
+
+# name: L_res
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: averages
+# type: scalar
+1.2300000000000002
+
+
+# name: average_errors
+# type: scalar
+0.00057735026918962634
+
+
+
+
+# name: M
+# type: matrix
+# rows: 3
+# columns: 1
+ 158.83000000000001
+ 158.83000000000001
+ 158.84
+
+
+# name: M_res
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: averages
+# type: scalar
+158.83333333333334
+
+
+# name: average_errors
+# type: scalar
+0.0033333333333303017
+
+
+
+
+# name: ans
+# type: sq_string
+# elements: 1
+# length: 1
+c
+
+
+# name: err_l_sum
+# type: scalar
+0.0006009252125773317
+
+
+# name: err_v3sq
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.00011369534442260569 0.0002968327152411743 0.00057834366718030389 0.00092497518955440253 0.0011533422934620666
+
+
+# name: err_v6sq
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.00029035500337311739 0.00072476781152310801 0.0011738488670788572 0.001574506895435489 0.0021101459530643734
+
+
+# name: err_v9sq
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.00053151374588663409 0.0013183077723838874 0.0019280464356949952 0.0025650082497808229 0.0032279812136125617
+
+
+# name: h3_a
+# type: scalar
+0.042625197310181384
+
+
+# name: h3_a_err
+# type: scalar
+0.0007927149925947781
+
+
+# name: h3_b
+# type: scalar
+-0.0040005894605110127
+
+
+# name: h3_b_err
+# type: scalar
+0.00022416639596994418
+
+
+# name: h3_ls
+# type: scalar
+0.042625197310181384
+
+
+# name: h3ls
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 7
+# name: x
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.20000000000000001 0.40000000000000002 0.59999999999999998 0.80000000000000004 1
+
+
+# name: y
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.0046079046912375927 0.012109750855826279 0.022469829034569594 0.030800456714127754 0.039573904502844023
+
+
+# name: y_err
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.00011369534442260569 0.0002968327152411743 0.00057834366718030389 0.00092497518955440253 0.0011533422934620666
+
+
+# name: a
+# type: scalar
+0.042625197310181384
+
+
+# name: b
+# type: scalar
+-0.0040005894605110127
+
+
+# name: a_err
+# type: scalar
+0.0007927149925947781
+
+
+# name: b_err
+# type: scalar
+0.00022416639596994418
+
+
+
+
+# name: h6_ls
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 7
+# name: x
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.20000000000000001 0.40000000000000002 0.59999999999999998 0.80000000000000004 1
+
+
+# name: y
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.011294747059936796 0.027592283954069621 0.048154068727076331 0.06443121696960552 0.083059908937517066
+
+
+# name: y_err
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.00029035500337311739 0.00072476781152310801 0.0011738488670788572 0.001574506895435489 0.0021101459530643734
+
+
+# name: a
+# type: scalar
+0.088926558704040357
+
+
+# name: b
+# type: scalar
+-0.0066126273635384886
+
+
+# name: a_err
+# type: scalar
+0.0015767369892695259
+
+
+# name: b_err
+# type: scalar
+0.00050044607759954299
+
+
+
+
+# name: h9ls
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 7
+# name: x
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.20000000000000001 0.40000000000000002 0.59999999999999998 0.80000000000000004 1
+
+
+# name: y
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.02167761564779953 0.049753038832514626 0.076988164469828604 0.10136332091460298 0.1307910736167405
+
+
+# name: y_err
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.00053151374588663409 0.0013183077723838874 0.0019280464356949952 0.0025650082497808229 0.0032279812136125617
+
+
+# name: a
+# type: scalar
+0.13604739720573397
+
+
+# name: b
+# type: scalar
+-0.0054305561585305086
+
+
+# name: a_err
+# type: scalar
+0.0025884746163257282
+
+
+# name: b_err
+# type: scalar
+0.00087038869202905292
+
+
+
+
+# name: k
+# type: scalar
+0.042625197310181384
+
+
+# name: key
+# type: sq_string
+# elements: 1
+# length: 1
+b
+
+
+# name: l
+# type: matrix
+# rows: 3
+# columns: 1
+ 0.050000000000000003
+ 0.050000000000000003
+ 0.049000000000000002
+
+
+# name: l_avg
+# type: scalar
+0.049666666666666671
+
+
+# name: l_res
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: averages
+# type: scalar
+0.049666666666666671
+
+
+# name: average_errors
+# type: scalar
+0.00033333333333333365
+
+
+
+
+# name: sig_sist_lin
+# type: scalar
+0.00050000000000000001
+
+
+# name: sig_sist_wes
+# type: scalar
+0.01
+
+
+# name: t3_s
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: avgs
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.73166666666666669 0.45133333333333331 0.33133333333333331 0.28300000000000003 0.24966666666666668
+
+
+# name: errs
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.0017638342073763935 0.00088191710368819677 0.0014529663145135578 0.0025166114784235831 0.0020275875100994063
+
+
+
+
+# name: t6_s
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: avgs
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.46733333333333332 0.29899999999999999 0.22633333333333336 0.19566666666666666 0.17233333333333334
+
+
+# name: errs
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.0020275875100994063 0.0015275252316519466 0.00033333333333333338 0.00033333333333333338 0.00066666666666666664
+
+
+
+
+# name: t9_s
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: avgs
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.33733333333333332 0.22266666666666665 0.17899999999999999 0.156 0.13733333333333334
+
+
+# name: errs
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.00066666666666666675 0.0012018504251546632 0.0005773502691896258 0.0005773502691896258 0.00033333333333333338
+
+
+
+
+# name: t_3
+# type: matrix
+# rows: 15
+# columns: 1
+ 735
+ 731
+ 729
+ 451
+ 453
+ 450
+ 329
+ 331
+ 334
+ 285
+ 286
+ 278
+ 253
+ 250
+ 246
+
+
+# name: t_6
+# type: matrix
+# rows: 15
+# columns: 1
+ 471
+ 467
+ 464
+ 301
+ 296
+ 300
+ 227
+ 226
+ 226
+ 196
+ 195
+ 196
+ 173
+ 173
+ 171
+
+
+# name: t_9
+# type: matrix
+# rows: 15
+# columns: 1
+ 336
+ 338
+ 338
+ 225
+ 222
+ 221
+ 179
+ 178
+ 180
+ 155
+ 156
+ 157
+ 137
+ 138
+ 137
+
+
+# name: v3
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.067881548974943057 0.11004431314623341 0.14989939637826963 0.17550058892815076 0.19893190921228304
+
+
+# name: v3sq
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.0046079046912375927 0.012109750855826279 0.022469829034569594 0.030800456714127754 0.039573904502844023
+
+
+# name: v6
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.10627674750356635 0.16610925306577481 0.21944035346097202 0.2538330494037479 0.28820116054158607
+
+
+# name: v6sq
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.011294747059936796 0.027592283954069621 0.048154068727076331 0.06443121696960552 0.083059908937517066
+
+
+# name: v9
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.14723320158102768 0.2230538922155689 0.27746741154562388 0.31837606837606841 0.36165048543689321
+
+
+# name: v9sq
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.02167761564779953 0.049753038832514626 0.076988164469828604 0.10136332091460298 0.1307910736167405
+
+
+# name: val
+# type: matrix
+# rows: 1
+# columns: 4
+ 12 15 18 21
+
+
+# name: w
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: a
+# type: matrix
+# rows: 1
+# columns: 3
+ 6 12 18
+
+
+# name: b
+# type: matrix
+# rows: 1
+# columns: 4
+ 12 15 18 21
+
+
+
+
+# name: x
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.20000000000000001 0.40000000000000002 0.59999999999999998 0.80000000000000004 1
+
+

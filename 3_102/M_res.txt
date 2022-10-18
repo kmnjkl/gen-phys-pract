@@ -1,0 +1,18 @@
+# Created by Octave 7.2.0, Sun Oct 16 01:41:36 2022 MSK <kmnjkl@maksim-hplaptop14cm1xxx-garuda>
+# name: M_res
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: averages
+# type: scalar
+158.83333333333334
+
+
+# name: average_errors
+# type: scalar
+0.0033333333333303017
+
+
+
+

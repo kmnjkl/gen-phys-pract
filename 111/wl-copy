@@ -1,0 +1,24 @@
+using Plots
+plotlyjs()
+
+function plot_lin_ls(res)
+    # Plot linear least squares fit
+    # res: result of lin_ls
+    # returns: nothing
+    # Plots: y = a*x + b
+
+    x = res["x"]
+    y = res["y"]
+    Sy = res["Sy"]
+    a = res["a"]
+    b = res["b"]
+    Sa = res["Sa"]
+    Sb = res["Sb"]
+    r = res["r"]
+
+    p = plot(x, y, seriestype = :scatter, yerror = Sy, label = "", linewidth = 2)
+    plot!(x, a .* x .+ b, label = "", linewidth = 3)
+    plot!(size = (800, 600))
+
+    display(p)
+end
